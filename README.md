@@ -8,7 +8,7 @@ Periodic manual water testing fails to capture sudden contamination events. This
 
 ## 🚀 Live Demo
 
-👉 **[Open Live App](https://your-app-link.streamlit.app](https://water-quality-monitor-gasf6pdpgdjywecrzmbx5t.streamlit.app/))** ← replace after deploying
+👉 **[Open Live App](https://water-quality-monitor-gasf6pdpgdjywecrzmbx5t.streamlit.app/)**
 
 ## 📊 Features
 
