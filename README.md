@@ -53,7 +53,7 @@ Periodic manual water testing fails to capture sudden contamination events. This
 ## 🏃 Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/water-quality-monitor
+git clone https://github.com/siddhesh123639/water-quality-monitor
 cd water-quality-monitor
 pip install -r requirements.txt
 streamlit run app.py
